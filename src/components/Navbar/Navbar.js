@@ -99,7 +99,7 @@ const Navbar = () => {
     }
 
     const homeLink = () =>{
-      window.location.replace("https://cosmoboy.vercel.app/")
+      window.location.replace("https://cosmoboynft.com")
     }
 
     return (
