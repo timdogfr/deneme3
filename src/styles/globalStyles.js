@@ -196,7 +196,8 @@ export const connectButton = styled.button`
   padding:10px;
   background-color: #252525;
   color: #f6a307;
-  font-family: 'wonder';
+  font-family: 'Montserrat';
+  font-style: Bold;
   text-align:center;
   font-size:1.5rem;
   border: 1px solid #f6a307;
