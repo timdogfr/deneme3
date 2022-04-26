@@ -219,7 +219,7 @@ function Home() {
             </s.maxButton>
           </s.FlexContainer>
           
-          <s.TextSubTitle style={{marginTop:"10px"}} size={0.9}  align={"right"} >
+          <s.TextSubTitle color={rgb(255, 255, 255)} style={{marginTop:"10px"}} size={0.9}  align={"right"} >
             Max 10
           </s.TextSubTitle>
           <s.SpacerSmall />
