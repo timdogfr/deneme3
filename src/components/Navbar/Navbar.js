@@ -120,7 +120,6 @@ const Navbar = () => {
                     <NavIcon src={"config/images/discord.png"}></NavIcon>
                   </NavLink>
                 </NavItems>
-                ) : ""}
 
                 {/* End Mobile Version */}
                
