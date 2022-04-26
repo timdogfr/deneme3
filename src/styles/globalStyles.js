@@ -87,7 +87,8 @@ export const TextTitle = styled.p`
   font-size:1.8rem;
   font-weight: 500;
   line-height: 1.6;
-  font-family: 'wonder';
+  font-family: 'Montserrat';
+  font-style: Regular;
  
 `;
 
