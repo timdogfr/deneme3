@@ -1,7 +1,7 @@
 {
-  "name": "nft-punk-numbers",
+  "name": "toppem-sports",
   "version": "1.0.0",
-  "description": "nft-punk-numbers",
+  "description": "toppem-sports",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
@@ -20,7 +20,7 @@
     "web3": "^1.7.0",
     "web3-eth-contract": "^1.7.0"
   },
-  "author": "Mir Imad Ahmed",
+  "author": "Çağan Cerrahoğlu",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
