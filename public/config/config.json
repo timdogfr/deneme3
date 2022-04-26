@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xD6754eBCCA004C48E09Fc130Ded72A8DCcfc165d",
-  "SCAN_LINK": "https://polygonscan.com/address/0xD6754eBCCA004C48E09Fc130Ded72A8DCcfc165d",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "https://polygonscan.com/address/",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "Cosmoboy",
-  "SYMBOL": "CMB",
+  "NFT_NAME": "",
+  "SYMBOL": "",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 60000000000000000000,
   "DISPLAY_COST": 60.00,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/Cosmoboy",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
 }
