@@ -29,7 +29,7 @@ export const NavContainer= styled.div`
   max-width: 2200px;
   transform: translateX(-55%);
   left: 50%;
-  bottom: -40%;
+  bottom: -20%;
   position: absolute;
 
   @media screen and (max-width: 960px) {
