@@ -28,7 +28,7 @@ export const NavContainer= styled.div`
   padding:0 24px;
   max-width: 2200px;
   transform: translateX(-55%);
-  left: 50%;
+  left: 70%;
   bottom: -20%;
   position: absolute;
 
