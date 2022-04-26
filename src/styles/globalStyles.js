@@ -195,14 +195,14 @@ export const FlexContainer = styled.div`
 export const connectButton = styled.button`
   width:100%;
   padding:10px;
-  background-color: #252525;
+  background-color: rgb(56 56 56);
   color: #f6a307;
   font-family: 'Montserrat';
   font-style: Bold;
   text-align:center;
-  font-size:1.5rem;
+  font-size:1.6rem;
   border: 1px solid #f6a307;
-  border-radius:10px;
+  border-radius:8px;
   cursor:pointer;
   transition: all 0.5s;
 `;
