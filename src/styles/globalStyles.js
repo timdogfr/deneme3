@@ -177,7 +177,7 @@ export const Image = styled.img`
 
 export const Line = styled.hr`
   width:100%;
-  border:1px solid  var(--web-theme);
+  border: 1px solid #f6a307;
 `;
 
 export const FlexContainer = styled.div`
